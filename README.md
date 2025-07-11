@@ -2,6 +2,8 @@
 
 Effortlessly expose your localhost to the internet using FastAPI and WebSocket technology.
 
+[![PyPI Downloads](https://static.pepy.tech/badge/ngpebble)](https://pepy.tech/projects/ngpebble)
+
 ## Installation & Usage
 
 ### Step 1: Install ngpebble
